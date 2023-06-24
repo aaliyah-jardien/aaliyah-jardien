@@ -1,6 +1,6 @@
-## Hello World, My name is Aaliyah Jardien 👋🏽🌍💫
+# Hello World, My name is Aaliyah Jardien 👋🏽🌍💫
 
-### 🔭 I'm an Aspiring Software Engineer & UX Enthusiast familiar with:
+## 🔭 I'm an Aspiring Software Engineer & UX Enthusiast familiar with:
 
 <div display="flex">
     <img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML"/>
@@ -12,11 +12,11 @@
 </div>
 
 
-### 🌱 I’m learning
+## 🌱 I’m learning
 - Java, Flexbox, Responsive design, Bootstrap 4 & 5, ReactJS, DOM Manipulation, NodeJS & ExpressJS 
 
 
-### 📫 How to reach me
+## 📫 How to reach me
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/aaliyah-jardien/">
@@ -25,7 +25,7 @@
 </div>
 
 
-### ⚡ Fun fact
+## ⚡ Fun fact
 
 - I **LOVE** nature, adventure, painting, drawing, jdm cars and **ALL** of Toyota's Gazoo Racing models (especially the Hilux)
 
