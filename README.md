@@ -1,6 +1,6 @@
 # Hello World, My name is Aaliyah Jardien 👋🏽🌍💫
 
-## 🔭 I'm an Aspiring Software Engineer & UX Enthusiast familiar with:
+## 🔭 I'm an Aspiring Frontend Engineer familiar with:
 
 <div display="flex">
     <img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML"/>
